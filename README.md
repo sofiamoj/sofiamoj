@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sofia
-- 👀 I’m interested in programming languages, especially Python programming language.
-- 🌱 I’ve learned Django framework and used AI in medical biotechnology.
-- 💞️ I’m looking to collaborate with highly qualified programming teammates.
+- 👀 I’m interested in data science, ML, Deep leaarning, NLP and LLM
+- 💞️ I’m I’m currently working on data science projects
 - 📫 How to reach me: sofia.shmojahed@gmail.com
 
 <!---
