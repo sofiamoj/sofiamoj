@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sofia
-- 👀 I’m interested in data science, ML, Deep leaarning, NLP and LLM
-- 💞️ I’m I’m currently working on data science projects
+- 👀 I’m insterested in data science, ML, Deep leaarning, NLP and LLMs
+- 💞️ I’m currently working on data science projects like ML, RAG and generative AI.
 - 📫 How to reach me: sofia.shmojahed@gmail.com
 
 <!---
